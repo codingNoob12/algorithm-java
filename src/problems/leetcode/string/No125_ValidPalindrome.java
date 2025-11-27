@@ -1,4 +1,4 @@
-package com.example.problems.string;
+package problems.leetcode.string;
 
 public class No125_ValidPalindrome {
     class Solution1 {
